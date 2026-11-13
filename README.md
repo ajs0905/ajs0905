@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1f1147,100:8b0000&text=Adrian%20Joseph%20Salva&fontColor=ffffff&fontSize=40&fontAlignY=36&desc=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%20%E2%80%A2%20dev%20%E2%80%A2%20game%20dev%20%E2%80%A2%20QA&descAlignY=58&descSize=16&animation=fadeIn" alt="Adrian Joseph Salva" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0b1e3f,50:1d4e89,100:3a7bd5&text=Adrian%20Joseph%20Salva&fontColor=ffffff&fontSize=42&fontAlignY=40&animation=fadeIn" alt="Adrian Joseph Salva" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1300&color=E63946&center=true&vCenter=true&width=480&lines=building+software+%26+games;breaking+things+on+purpose+(%E2%95%AF%C2%B0%E2%96%A1%C2%B0)%E2%95%AF;learning+something+new+every+day" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1300&color=4FA3E0&center=true&vCenter=true&width=480&lines=building+software+%26+games;breaking+things+on+purpose+(%E2%95%AF%C2%B0%E2%96%A1%C2%B0)%E2%95%AF;learning+something+new+every+day" alt="typing intro" />
 </p>
 
 ### ⚡ About Me
@@ -35,10 +35,10 @@ I'm always curious to learn new things, experiment with different technologies, 
 ### 📬 Get in Touch
 
 <p>
-  <a href="mailto:adriansalva13@gmail.com"><img src="https://img.shields.io/badge/Email-adriansalva13%40gmail.com-E63946?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/ajsalva"><img src="https://img.shields.io/badge/LinkedIn-ajsalva-1f1147?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:adriansalva13@gmail.com"><img src="https://img.shields.io/badge/Email-adriansalva13%40gmail.com-1d4e89?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/ajsalva"><img src="https://img.shields.io/badge/LinkedIn-ajsalva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:8b0000,50:1f1147,100:0d1117" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:3a7bd5,50:1d4e89,100:0b1e3f" />
 </p>
