@@ -36,7 +36,7 @@ I'm always curious to learn new things, experiment with different technologies. 
 
 | Project | What it is |
 | --- | --- |
-| 🚗 **Drive-Thru MNL: No Traffic Edition** | Low-poly browser driving game set in Metro Manila (but only for BGC for now), built from real OpenStreetMap data. With Ear-clipping triangulation for buildings, Douglas-Peucker simplification, tile streaming, and A* routing for GPS. React Three Fiber, TypeScript. |
+| 🚗 [**Drive-Thru MNL: No Traffic Edition**](https://drive-thru-mnl.vercel.app) | Low-poly browser driving game set in Metro Manila (but only for BGC for now), built from real OpenStreetMap data. With Ear-clipping triangulation for buildings, Douglas-Peucker simplification, tile streaming, and A* routing for GPS. React Three Fiber, TypeScript. |
 | 🏰 **ProjectTD** | A Android 2D Tower Defense Game set on a dark medieval fantasy world. Currently, work in progress. |
 
 ### 💻 Tech Stack
